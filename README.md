@@ -8,4 +8,4 @@ Esta es una modificación de prueba realizada para posteriormente aprender a usa
 el comando git pull.
 
 ## Sub apartado 2
-Esta es una nueva modificaciÃ³n tras realizar un pull (git pull). 
+Esta es una nueva modificación tras realizar un pull (git pull). 
